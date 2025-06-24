@@ -1,4 +1,4 @@
-# CineCraft
+# CineCraft 🎥🍿🎬
 A **simple elegant modern light weight movie showing** UI that I made using the React just for some practice and to deepen the understanding my concepts in the React.
 
 --
