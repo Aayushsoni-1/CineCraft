@@ -20,7 +20,7 @@ A **simple elegant modern light weight movie showing** UI that I made using the 
 - **Tailwind-CSS**  
 - **Firebase (Firestore)**  
 
---
+
 
 ✨ **Thank you for checking out CineCraft!😉☺️**  
 **If you find it helpful, please give it a ⭐ (star) — appreciate your support!**
